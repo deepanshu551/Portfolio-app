@@ -1,0 +1,10 @@
+.grid {
+  display: -ms-grid;
+  display: grid;
+}
+
+.grid-col-2 {
+  -ms-grid-columns: 40fr 60fr;
+      grid-template-columns: 40fr 60fr;
+}
+/*# sourceMappingURL=App.css.map */
