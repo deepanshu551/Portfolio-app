@@ -19,12 +19,12 @@ const About = (props) => {
 </div>
 <div className="about__content">
     <div className="about__cards">
-        <Aboutcard heading={"Experience"} subHeading={"3+ Years Working"}><FaAward className='icon'/></Aboutcard>
+        <Aboutcard heading={"Experience"} subHeading={"2+ Years Working"}><FaAward className='icon'/></Aboutcard>
         <Aboutcard heading={"Clients"} subHeading={"Worked With 5+ clients"}><FaUsers className='icon'/></Aboutcard>
         <Aboutcard heading={"Projects"} subHeading={"Worked In 3+ clients Projects"}><VscFolderLibrary className='icon'/></Aboutcard>
     </div>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum placeat dolor quae sequi assumenda voluptatibus quo, blanditiis modi nostrum tenetur ratione aliquam fugiat dicta voluptate aut temporibus tempore ipsum! Velit?</p>
-<a href="#contact" className="btn btn-primary">Let's Contact</a>
+    <p>Hi I am Deepanshu  </p>
+<a href="#contact" style={{marginTop:"2rem"}} className="btn btn-primary">Let's Contact</a>
 </div>
            </div>
            
